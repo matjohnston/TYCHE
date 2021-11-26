@@ -1,0 +1,7 @@
+.venv
+TYCHE.egg-info/dependency_links.txt
+TYCHE.egg-info/PKG-INFO
+TYCHE.egg-info/SOURCES.txt
+TYCHE.egg-info/top_level.txt
+TYCHE.egg-info
+reports

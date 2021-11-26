@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+PySide6
+
+# Install locally
+-e .
