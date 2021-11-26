@@ -42,3 +42,10 @@ pip >= 21.0
 ### Usage
 
 ```python index.py```
+
+It will then create the following structure:
+reports/coinMarketCap/[mm-dd-yyyy]
+with the following files:
+  lowCap.csv
+  microCap.csv
+  midCap.csv
